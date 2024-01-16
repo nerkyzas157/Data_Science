@@ -8,6 +8,7 @@ In future I will implement gathered data insight to Power BI for dynamic visuali
 - Data was taken from (https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam/data?select=games.csv).
 - Data was cleaned with Microsoft Excel.
 - SQL was used for data manipulation.
+- Used Power BI tool visualize my analysis.
 
 
 
