@@ -1,6 +1,6 @@
 # nerkyzas157 portfolio
 
-# [Project 1: Steam Data Analysis] (https://github.com/nerkyzas157/Steam_Data_Analysis)
+# [Project 1: Steam Data Analysis](https://github.com/nerkyzas157/Steam_Data_Analysis)
 
 In this project I utilized MySQL for data management, dived into gaming trends, user behavior, and more.
 
@@ -9,7 +9,7 @@ In this project I utilized MySQL for data management, dived into gaming trends, 
 - SQL was used for data manipulation.
 - Used Power BI tool visualize my analysis.
 
-# [Project 2: Handwritten Digit Recognition] (https://github.com/nerkyzas157/Handwritten_Digit_Recognition)
+# [Project 2: Handwritten Digit Recognition](https://github.com/nerkyzas157/Handwritten_Digit_Recognition)
 
 This is my gateway project into Machine Learning with Python. I used a built-in data set to train a Neural Network Model, to recognize handwritten digits.
 
@@ -22,4 +22,4 @@ This is my gateway project into Machine Learning with Python. I used a built-in 
 
 ## Contact Information:
 
-For inquiries, suggestions, or collaboration opportunities, connect with me on [LinkedIn] (http://www.linkedin.com/in/nkurlianskas).
+For inquiries, suggestions, or collaboration opportunities, connect with me on [LinkedIn](http://www.linkedin.com/in/nkurlianskas).
