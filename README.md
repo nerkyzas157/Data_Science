@@ -4,7 +4,7 @@
 
 In this project I utilized MySQL for data management, dived into gaming trends, user behavior, and more.
 
-- Data was taken from (https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam/data?select=games.csv).
+- Data was taken from [Kaggle](https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam/data?select=games.csv).
 - Data was cleaned with Microsoft Excel.
 - SQL was used for data manipulation.
 - Used Power BI tool visualize my analysis.
