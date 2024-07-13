@@ -1,4 +1,4 @@
-# Used "pip install -r requirments.txt" command in .venv terminal
+# Used "pip install -r requirments.txt" command in terminal
 
 # Imported libraries for the project
 import tensorflow
@@ -93,20 +93,6 @@ labels = np.array(labels)
 
 # Expanded dimentions
 images = np.expand_dims(images, axis=-1)
-
-# Model had to be trained with new data
-model.fit(images, [labels], epochs=10)
-test_loss, test_accuracy = model.evaluate(images, [labels])
-print("Test accuracy:", test_accuracy)
-
-# Compiled the model
-model.compile(
-    optimizer="adam", loss="sparse_categorical_crossentropy", metrics=["accuracy"]
-)
-
-# Evaluated performance
-test_loss, test_accuracy = model.evaluate(images, labels)
-print("Test accuracy:", test_accuracy)
 
 # Made predictions
 predictions = model.predict(images)
