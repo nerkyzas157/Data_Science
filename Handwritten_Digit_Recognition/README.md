@@ -27,7 +27,7 @@ pip install -r requirements.txt
 5. Clone or download this repository to your local machine.
 
 ## Usage
-1. Open the `main.py` file in a IDE.
+1. Open the `main.py` file in an IDE.
 2. Train the model using the provided dataset.
 3. Evaluate the model's accuracy on the test dataset.
 4. Visualize sample images and their predicted labels to assess the model's performance.
