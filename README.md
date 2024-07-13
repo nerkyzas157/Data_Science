@@ -28,7 +28,7 @@ As this is a personal learning project, I'm not actively seeking contributions. 
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE.txt` file for more details.
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ---
 
