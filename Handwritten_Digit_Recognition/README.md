@@ -27,11 +27,10 @@ pip install -r requirements.txt
 5. Clone or download this repository to your local machine.
 
 ## Usage
-1. Open the `hdr.ipynb` notebook in a Jupyter Notebook environment.
-2. Follow the instructions in the notebook to execute each code cell sequentially.
-3. Train the model using the provided dataset.
-4. Evaluate the model's accuracy on the test dataset.
-5. Visualize sample images and their predicted labels to assess the model's performance.
+1. Open the `main.py` file in a IDE.
+2. Train the model using the provided dataset.
+3. Evaluate the model's accuracy on the test dataset.
+4. Visualize sample images and their predicted labels to assess the model's performance.
 
 ## Visualization
 After training the model, you can visualize the results by plotting sample images along with their predicted labels. The visualization helps in understanding how well the model is performing on unseen data. Already generated visual is added and named: Figure_1.png.
